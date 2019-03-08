@@ -1,0 +1,133 @@
+.Button {
+    margin: 0px;   
+}
+
+.Table {
+    text-align: center;
+}
+
+.Header {
+
+    margin-bottom: 5%;
+}
+
+.Navbar {
+
+    margin-bottom: 2%;
+}
+
+a {
+
+    font-size: 1rem !important; 
+}
+
+.Time {
+    font-size: 3rem;
+}
+
+.Col {
+
+    height: 4rem;
+    line-height: 4rem;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.Highlighted {
+    color:  #2bbbad;
+}
+
+.White {
+    color: white;
+}
+
+.ArrivalBackground {
+    background-color: #2bbbad;
+    padding: 1%;
+}
+
+.DepartureBackground {
+    background-color: #3a7fca;
+    padding: 1%;
+}
+
+.TextCentered {
+    text-align: center;
+}
+
+.TextRight {
+    text-align: right;
+}
+
+.TextLeft {
+    text-align: left;
+}
+
+.FlightModal {
+    border: 1px solid #3353ac;
+    font-size:  2rem;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1.5rem;
+} 
+
+.FlightModal th {
+    background-color: #c8dcef;
+    border: 1px solid #3353ac;
+    font-weight: bold;
+    font-size:  1.2rem;
+} 
+
+.FlightModal td {
+    border: 1px solid #3353ac;
+    background-color: #f0f5fa;
+    font-size:  1.2rem;
+}
+
+.DatePicker {
+    padding: 2%;
+}
+
+.PanelSpace {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.Flex {
+
+    display: flex;
+}
+
+.AddFlightButton {
+    width:40%;
+    padding: 0.7rem;
+    font-size: 2.5rem;
+    color: white;
+    background-color: #2bbbad;
+}
+
+.FormHeader {
+    color: white;
+    margin-top:7%;
+    text-align: center;
+}
+
+.FormRow {
+
+    margin-top:5%;
+    margin-bottom: 5%;
+}
+
+.Footer {
+    background-color: #2bbbad;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    height: 3rem;
+    line-height: 100%;
+    vertical-align: middle;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
